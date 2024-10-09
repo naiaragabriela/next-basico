@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 
-export default function codigoNome() {
+export default function CodigoNome() {
 
     
     const router = useRouter()

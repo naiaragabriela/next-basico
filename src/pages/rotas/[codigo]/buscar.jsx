@@ -1,7 +1,7 @@
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 
-export default function buscar() {
+export default function Buscar() {
 
     //consigo acessar informações dinâmicas com userouter
 
